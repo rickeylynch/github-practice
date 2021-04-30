@@ -1,0 +1,19 @@
+.column1 {
+    width: 250px;
+    background: blue;
+    color: white;
+    height: 300px;
+    padding: 10px;
+    font: 12px;
+}
+.column2 {
+    width: 250px;
+    background: black;
+    color: white;
+    height: 300px;
+    padding: 10px;
+    font: 12px;
+}
+.row {
+    display: flex;
+}
