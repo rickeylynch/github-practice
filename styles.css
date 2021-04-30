@@ -15,5 +15,6 @@
     font: 12px;
 }
 .row {
-    display: flex;
+    display: table;
+    clear: both;
 }
